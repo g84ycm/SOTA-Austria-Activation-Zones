@@ -1,6 +1,6 @@
 # SOTA-Austria-Activation-Zones
 
-Collection of activation zones for all Austrian SOTA summits. Provided shape files can be downloaded for every individual summit, all activation zones per state as one file and all zones for Austria as one file.
+Collection of activation zones for all Austrian SOTA summits. Provided files can be downloaded for every individual summit, all activation zones per state as one file and all zones for Austria as one file.
 
 Data/Software used for calculating all zones:
 
@@ -10,6 +10,6 @@ x Official 1m resolution ALS DTM raster data: https://data.bev.gv.at/geonetwork/
 
 x Official geographical summit names and coordinates: https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/metadata/fc46102b-2ced-4518-8cf0-f322229b66db
 
-x QGIS
+x QGIS, GDAL
 
-x Python
+x Python, Bash
