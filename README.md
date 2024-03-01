@@ -4,7 +4,7 @@ Collection of UNOFFICIAL activation zones for all Austrian SOTA summits. Provide
 
 GeoJSON and shape files can be downloaded for every individual summit, as one file for all activation zones per state and as one file for all zones for Austria.
 
-Provided data may contain errors, is unofficial and has not been verified by any means. Due to inaccurate summit locations in the SOTA summit list, some SOTA summits deviate from the actual summit position. This could lead to some summits being shown outside of the activation zone, i.e. the summit and its calculated activation zone dont match on the map. If errors in the provided data are discovered, please give feedback by creating an issue.
+Provided data may contain errors, is unofficial and has not been verified by any means. Due to inaccurate summit locations in the SOTA summit list, some SOTA summits deviate from the actual summit position. This could lead to some summits being shown outside of the activation zone, i.e. the summit and its calculated activation zone dont match on the map. Additionally, activation zones that span over the OE national border might be wrong due to lack of data beyond the border. If errors in the provided data are discovered, please give feedback by creating an issue.
 
 Make sure to follow the official SOTA rules. 
 
